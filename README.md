@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Anuj Kattel.<br>A learner and passionate developer 👨‍💻👨🏽‍💻</h2>
+<h2 align="center">Hi 👋! My name is Anuj Kattel and I'm a learner and passionate developer, from Nepal.</h2>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://scontent.fbdp2-1.fna.fbcdn.net/v/t39.30808-6/427462483_704704138507696_3116346255439069771_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=VQwobtxYtD0AX8S4VIQ&_nc_ht=scontent.fbdp2-1.fna&oh=00_AfDYmHr72f8fMiVomvwQ2XzE-2oQ6sdTDb1bGIkaRPJw3A&oe=65E92138"  />
 
 ###
 
@@ -32,21 +32,8 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/anujkattel/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/anuj-kattel-b9a86323b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
   <a href="https://www.facebook.com/Anujkattel2/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/anujkattel/anujkattel/output/snake.svg" alt="Snake animation" />
-
-###
